@@ -1,8 +1,8 @@
 # freeCodeCamp
 
-## JavaScript Algorithms and Data Structures
+### JavaScript Algorithms and Data Structures
 
-freeCodeCamp Profile: https://www.freecodecamp.org/nowshen
+## freeCodeCamp Profile: https://www.freecodecamp.org/nowshen
 
 1. [Pyramid Generator](PyramidGenerator)
 2. [Grade-book App](/GradebookApp/)
